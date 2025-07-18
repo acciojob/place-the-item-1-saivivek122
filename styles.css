@@ -1,2 +1,43 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	background-color:green;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+#b1{
+	height:90px;
+	width:90px;
+	background-color:green;
+}
+#b2{
+	height:90px;
+	width:90px;
+	background-color:green;
+}
+#b3{
+	height:90px;
+	width:90px;
+	background-color:green;
+}
+#b4{
+	height:90px;
+	width:90px;
+	background-color:green;
+}
+#b5{
+	height:90px;
+	width:90px;
+	background-color:green;
+}
+#b6{
+	height:90px;
+	width:90px;
+	background-color:red;
+}
+#b7{
+	height:90px;
+	width:90px;
+	background-color:blue;
+}
